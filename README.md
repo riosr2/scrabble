@@ -1,12 +1,12 @@
 # scrabble
 Preliminary Scrabble Game
 1 source code file(s) are part of this project:
-        -> Scrabble.java
+	-> Scrabble.java
 Additional files are included. 
-		-> Three directories are included. tiles contains images for letter tiles
-		   images contains images for the special icons on the board
-		   data contains the text file for the dictionary.
-
+	-> Three directories are included. tiles contains images for letter tiles
+	images contains images for the special icons on the board
+	data contains the text file for the dictionary.
+	
 To compile this program, execute:
 $ javac Scrabble.java
 
